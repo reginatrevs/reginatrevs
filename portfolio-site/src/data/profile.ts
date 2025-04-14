@@ -30,7 +30,7 @@ const profile: Profile = {
   longBio: "Hey there! I'm a designer at heart who fell in love with code. With roots in visual design and a passion for crafting seamless user experiences, I've evolved into a full-stack front-end developer who bridges the gap between beautiful aesthetics and functional technology. I speak both design and development languages fluently—turning wireframes and mockups into responsive, interactive experiences with clean, efficient code. Whether I'm sketching user flows, building React components, or debugging APIs, I'm always focused on creating digital products that look amazing and work even better.",
   avatarUrl: hereGif,
   location: "Ottawa, Canada",
-  email: "hello@reginatrevs.com",
+  email: "trevsregina@gmail.com",
   resumeUrl: "/files/resume.pdf",
   socialMedia: [
     {
@@ -42,16 +42,6 @@ const profile: Profile = {
       platform: "GitHub",
       url: "https://github.com/trev0035",
       icon: "github"
-    },
-    {
-      platform: "Dribbble",
-      url: "https://dribbble.com/reginatrevs",
-      icon: "dribbble"
-    },
-    {
-      platform: "Twitter",
-      url: "https://twitter.com/reginatrevs",
-      icon: "twitter"
     }
   ],
   skills: [
