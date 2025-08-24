@@ -14,6 +14,7 @@ export interface Profile {
   avatarUrl: string;
   location: string;
   email: string;
+  secondaryEmail: string;
   phone?: string;
   resumeUrl: string;
   socialMedia: SocialMedia[];
@@ -31,6 +32,7 @@ const profile: Profile = {
   avatarUrl: hereGif,
   location: "Ottawa, Canada",
   email: "trevsregina@gmail.com",
+  secondaryEmail: "regina@trevs.ca",
   resumeUrl: "/files/resume.pdf",
   socialMedia: [
     {
@@ -42,6 +44,11 @@ const profile: Profile = {
       platform: "GitHub",
       url: "https://github.com/trev0035",
       icon: "github"
+    },
+    {
+      platform: "Instagram",
+      url: "https://www.instagram.com/reginatrevs/",
+      icon: "instagram"
     }
   ],
   skills: [
