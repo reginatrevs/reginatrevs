@@ -3,9 +3,9 @@
   <img src="assets/banner.png" alt="Regina Trevs — Interactive Media Designer & Digital Identity Specialist" width="100%" />
 </p>
 
-<h1 align="center">Hi, I’m Regina Trevs</h1>
+<h1>Hi, I’m Regina Trevs</h1>
 
-<p align="center">
+<p>
   <b>Interactive Media Designer</b> · <b>Digital Identity Specialist</b> · <b>Adaptive Web Developer</b><br/>
   Ottawa, Ontario
 </p>
